@@ -110,9 +110,15 @@ The camera will be activated and recognize your face using the pretrained model.
 
 
 Functions:
+
 Transaction between accounts (Jerry)
+
 faceid login
+
 foreign currency exchange (Wing)
+
 loan (Jerry)
+
 stock (Wing)
+
 
