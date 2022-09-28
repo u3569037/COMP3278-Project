@@ -6,4 +6,4 @@ Frontend: Python
 
 Database: mySQL
 
-COMP3278 Project Group 19
+COMP3278 Project Group 20
